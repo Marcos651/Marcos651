@@ -5,7 +5,7 @@
 ### `$ whoami`
 
 <p align="center">
-  <img src="assets/fetch.svg" width="100%" alt="Foto em verde ao lado de um cartão no estilo neofetch: desenvolvedor de sistemas na Telek Sistemas, em Uberlândia; JavaScript, TypeScript, Node.js, Next.js, MySQL, PostgreSQL, REST, GraphQL, Blip, OpenAI, Whisper e RAG.">
+  <img src="assets/fetch.svg" width="100%" alt="Foto de Marcos ao lado de um cartão no estilo neofetch: desenvolvedor de sistemas na Telek Sistemas, em Uberlândia; JavaScript, TypeScript, Node.js, Next.js, MySQL, PostgreSQL, REST, GraphQL, Blip, OpenAI, Whisper e RAG.">
 </p>
 
 ### `$ inventory --equipped`
