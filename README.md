@@ -1,6 +1,6 @@
 # Olá, eu sou o Marcos 👋
 
-Desenvolvedor na [Telek Sistemas](https://www.linkedin.com/in/marcosxp/), em Uberlândia (MG).
+Desenvolvedor na Telek Sistemas, em Uberlândia (MG).
 Trabalho com backend, chatbots na plataforma Blip e IA aplicada.
 
 ## O que eu faço
