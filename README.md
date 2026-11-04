@@ -1,19 +1,13 @@
-# Olá, eu sou o Marcos 👋
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Marcos Sousa: Backend e Chatbots, Node.js e TypeScript, IA aplicada, Uberlândia, MG. O caminho de uma mensagem: webhook, bot, intenção, API, CRM, ERP e resposta.">
+</p>
 
-Desenvolvedor na Telek Sistemas, em Uberlândia (MG).
-Trabalho com backend, chatbots na plataforma Blip e IA aplicada.
+### `$ whoami`
 
-## O que eu faço
+<p align="center">
+  <img src="assets/fetch.svg" width="100%" alt="Foto em verde ao lado de um cartão no estilo neofetch: desenvolvedor de sistemas na Telek Sistemas, em Uberlândia; JavaScript, TypeScript, Node.js, Next.js, MySQL, PostgreSQL, REST, GraphQL, Blip, OpenAI, Whisper e RAG.">
+</p>
 
-- Aplicações web com Next.js e Node.js, criando e consumindo APIs REST e GraphQL
-- Modelagem e gestão de bancos de dados MySQL e PostgreSQL
-- Integrações entre sistemas de CRM e ERP para automatizar rotinas de negócio
-- Soluções com OpenAI: interpretação de intenções, transcrição de áudio com Whisper, engenharia de prompts e RAG
+### `$ ping marcos`
 
-## Tecnologias
-
-Node.js · TypeScript · JavaScript · Next.js · MySQL · PostgreSQL · OpenAI · Blip · Git
-
-## Contato
-
-[LinkedIn](https://www.linkedin.com/in/marcosxp/)
+Quer trocar ideia sobre bots, integrações ou IA? Me chama no [LinkedIn](https://www.linkedin.com/in/marcosxp/).
