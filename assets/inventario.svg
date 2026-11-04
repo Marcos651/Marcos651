@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="310" viewBox="0 0 860 310" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace">
+<rect x="0.5" y="0.5" width="499" height="309" rx="6" fill="#0c1110" stroke="#24332e"/>
+<text x="16" y="24" font-size="10" letter-spacing="1.5" fill="#7d8f87">EQUIPADOS</text>
+<text x="484" y="24" font-size="10" letter-spacing="1.5" text-anchor="end" fill="#f2b84b">USO DIÁRIO</text>
+<rect x="16.5" y="38.5" width="75" height="75" rx="3" fill="#111a17" stroke="#f2b84b"/>
+<text x="54.0" y="76.0" text-anchor="middle" font-size="13" font-weight="700" fill="#f2b84b">NODE</text>
+<text x="54.0" y="104" text-anchor="middle" font-size="9" fill="#7d8f87">Node.js</text>
+<rect x="132.5" y="38.5" width="75" height="75" rx="3" fill="#111a17" stroke="#24332e"/>
+<text x="170.0" y="76.0" text-anchor="middle" font-size="15" font-weight="700" fill="#3ddc97">TS</text>
+<text x="170.0" y="104" text-anchor="middle" font-size="9" fill="#7d8f87">TypeScript</text>
+<rect x="248.5" y="38.5" width="75" height="75" rx="3" fill="#111a17" stroke="#24332e"/>
+<text x="286.0" y="76.0" text-anchor="middle" font-size="15" font-weight="700" fill="#3ddc97">JS</text>
+<text x="286.0" y="104" text-anchor="middle" font-size="9" fill="#7d8f87">JavaScript</text>
+<rect x="364.5" y="38.5" width="75" height="75" rx="3" fill="#111a17" stroke="#24332e"/>
+<text x="402.0" y="76.0" text-anchor="middle" font-size="13" font-weight="700" fill="#3ddc97">NEXT</text>
+<text x="402.0" y="104" text-anchor="middle" font-size="9" fill="#7d8f87">Next.js</text>
+<rect x="16.5" y="122.5" width="75" height="75" rx="3" fill="#111a17" stroke="#24332e"/>
+<text x="54.0" y="160.0" text-anchor="middle" font-size="13" font-weight="700" fill="#3ddc97">BLIP</text>
+<text x="54.0" y="188" text-anchor="middle" font-size="9" fill="#7d8f87">Blip</text>
+<rect x="132.5" y="122.5" width="75" height="75" rx="3" fill="#111a17" stroke="#24332e"/>
+<text x="170.0" y="160.0" text-anchor="middle" font-size="15" font-weight="700" fill="#3ddc97">AI</text>
+<text x="170.0" y="188" text-anchor="middle" font-size="9" fill="#7d8f87">OpenAI</text>
+<rect x="248.5" y="122.5" width="75" height="75" rx="3" fill="#111a17" stroke="#24332e"/>
+<text x="286.0" y="160.0" text-anchor="middle" font-size="15" font-weight="700" fill="#3ddc97">PG</text>
+<text x="286.0" y="188" text-anchor="middle" font-size="9" fill="#7d8f87">PostgreSQL</text>
+<rect x="364.5" y="122.5" width="75" height="75" rx="3" fill="#111a17" stroke="#24332e"/>
+<text x="402.0" y="160.0" text-anchor="middle" font-size="15" font-weight="700" fill="#3ddc97">SQL</text>
+<text x="402.0" y="188" text-anchor="middle" font-size="9" fill="#7d8f87">MySQL</text>
+<rect x="16.5" y="212.5" width="467" height="84" rx="3" fill="#111a17" stroke="#24332e"/>
+<text x="30" y="234" font-size="14" font-weight="700" fill="#d5e0da">Node.js</text>
+<text x="470" y="234" font-size="10" letter-spacing="1" text-anchor="end" fill="#7d8f87">MÃO PRINCIPAL · BACKEND</text>
+<text x="30" y="255" font-size="12" fill="#7d8f87">Usado em: APIs, integrações CRM/ERP e back das aplicações web.</text>
+<text x="30" y="282" font-size="12" font-style="italic" fill="#f2b84b">Item inicial. Nunca mais saiu do inventário.</text>
+<rect x="516.5" y="0.5" width="343" height="309" rx="6" fill="#0c1110" stroke="#24332e"/>
+<text x="532" y="24" font-size="10" letter-spacing="1.5" fill="#7d8f87">MOCHILA</text>
+<text x="844" y="24" font-size="10" letter-spacing="1.5" text-anchor="end" fill="#f2b84b">9 ITENS</text>
+<rect x="532.5" y="38.5" width="75" height="75" rx="3" fill="#111a17" stroke="#24332e"/>
+<text x="570.0" y="76.0" text-anchor="middle" font-size="13" font-weight="700" fill="#3ddc97">REST</text>
+<text x="570.0" y="104" text-anchor="middle" font-size="9" fill="#7d8f87">REST</text>
+<rect x="642.5" y="38.5" width="75" height="75" rx="3" fill="#111a17" stroke="#24332e"/>
+<text x="680.0" y="76.0" text-anchor="middle" font-size="15" font-weight="700" fill="#3ddc97">GQL</text>
+<text x="680.0" y="104" text-anchor="middle" font-size="9" fill="#7d8f87">GraphQL</text>
+<rect x="752.5" y="38.5" width="75" height="75" rx="3" fill="#111a17" stroke="#24332e"/>
+<text x="790.0" y="76.0" text-anchor="middle" font-size="15" font-weight="700" fill="#3ddc97">WSP</text>
+<text x="790.0" y="104" text-anchor="middle" font-size="9" fill="#7d8f87">Whisper</text>
+<rect x="532.5" y="122.5" width="75" height="75" rx="3" fill="#111a17" stroke="#24332e"/>
+<text x="570.0" y="160.0" text-anchor="middle" font-size="15" font-weight="700" fill="#3ddc97">RAG</text>
+<text x="570.0" y="188" text-anchor="middle" font-size="9" fill="#7d8f87">RAG</text>
+<rect x="642.5" y="122.5" width="75" height="75" rx="3" fill="#111a17" stroke="#24332e"/>
+<text x="680.0" y="160.0" text-anchor="middle" font-size="15" font-weight="700" fill="#3ddc97">GIT</text>
+<text x="680.0" y="188" text-anchor="middle" font-size="9" fill="#7d8f87">Git</text>
+<rect x="752.5" y="122.5" width="75" height="75" rx="3" fill="#111a17" stroke="#24332e"/>
+<text x="790.0" y="160.0" text-anchor="middle" font-size="15" font-weight="700" fill="#3ddc97">PM</text>
+<text x="790.0" y="188" text-anchor="middle" font-size="9" fill="#7d8f87">Postman</text>
+<rect x="532.5" y="206.5" width="75" height="75" rx="3" fill="#111a17" stroke="#24332e"/>
+<text x="570.0" y="244.0" text-anchor="middle" font-size="15" font-weight="700" fill="#3ddc97">SCR</text>
+<text x="570.0" y="272" text-anchor="middle" font-size="9" fill="#7d8f87">Scrum</text>
+<rect x="642.5" y="206.5" width="75" height="75" rx="3" fill="#111a17" stroke="#24332e"/>
+<text x="680.0" y="244.0" text-anchor="middle" font-size="15" font-weight="700" fill="#3ddc97">CRM</text>
+<text x="680.0" y="272" text-anchor="middle" font-size="9" fill="#7d8f87">CRM</text>
+<rect x="752.5" y="206.5" width="75" height="75" rx="3" fill="#111a17" stroke="#24332e"/>
+<text x="790.0" y="244.0" text-anchor="middle" font-size="15" font-weight="700" fill="#3ddc97">ERP</text>
+<text x="790.0" y="272" text-anchor="middle" font-size="9" fill="#7d8f87">ERP</text>
+</svg>
