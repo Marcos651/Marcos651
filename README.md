@@ -29,6 +29,10 @@
   <img src="assets/status.svg" width="100%" alt="Status do GitHub nos últimos 12 meses: 312 contribuições em 98 dias ativos, com gráfico de atividade por mês.">
 </p>
 
+<p align="center">
+  <img src="assets/cobrinha.svg" width="100%" alt="Cobrinha animada comendo o gráfico de contribuições dos últimos 12 meses.">
+</p>
+
 ### `$ ping marcos`
 
 Quer trocar ideia sobre bots, integrações ou IA? Me chama no [LinkedIn](https://www.linkedin.com/in/marcosxp/).
